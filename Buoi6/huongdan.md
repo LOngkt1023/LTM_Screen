@@ -1,1 +1,0 @@
-Đo tốc độ đường truyền của mỗi client sau đó điều chỉnh để phù hợp
